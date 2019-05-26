@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: PyMySQL3
+Version: 0.5
+Summary: Pure Python MySQL Driver 
+Home-page: http://code.google.com/p/pymysql
+Author: yutaka.matsubara
+Author-email: yutaka.matsubara@gmail.com
+Maintainer: Pete Hunt
+Maintainer-email: floydophone@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
